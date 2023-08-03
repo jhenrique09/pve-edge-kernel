@@ -4,4 +4,5 @@
 
 [submodule "linux"]
 	path = linux
-	url = git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
+	url = git://github.com/jhenrique09/linux
+    branch = pve-v6.4.8
